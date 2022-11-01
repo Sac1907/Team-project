@@ -22,3 +22,12 @@ TresorLDN's e-commerce website allows its customers to perform purchases online,
 - Home Essentials
 - Bed Duvets
 - Mattresses
+
+The new online shopping system provides a user-friendly interface that will promote customer satisfaction as it will allow the customer to
+
+- View Past Orders.
+- Allow them to access their basket at any time.
+- Register to create an account with ease.
+- Be able to login.
+- Peace of mind in security as their data will be kept secured.
+- View products and be able to search items.
