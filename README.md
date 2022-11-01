@@ -58,5 +58,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - **Ben Squelch** (210052484) - Server-side developer to the TresorLDN E-Commerce website. His Contact details are [210052484@aston.ac.uk](mailto:210052484@aston.ac.uk)
 - **Thomas Merricks** (180204511) - Server-side developer to the TresorLDN E-Commerce website. His Contact details are [180204511@aston.ac.uk](mailto:180204511@aston.ac.uk)
 - **Boluwatife Akinola** (210119226) - Server-side developer to the TresorLDN E-Commerce website. His Contact details are [210119226@aston.ac.uk](mailto:210119226@aston.ac.uk)
-- **Anaami Patel** (220197368) - UI & UX Website Designer using Wireframe. His Contact details are [220197368@aston.ac.uk](mailto:220197368@aston.ac.uk)
-- **Faryal Mansoor** (220254155) - Website Designer and Client-side developer. His Contact details are [220254155@aston.ac.uk](mailto:220254155@aston.ac.uk)
+- **Anaami Patel** (220197368) - UI & UX Website Designer using Wireframe. Her Contact details are [220197368@aston.ac.uk](mailto:220197368@aston.ac.uk)
+- **Faryal Mansoor** (220254155) - Website Designer and Client-side developer. Her Contact details are [220254155@aston.ac.uk](mailto:220254155@aston.ac.uk)
