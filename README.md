@@ -14,15 +14,17 @@ TresorLDN is a limited company that advertises and sells various homeware produc
 
 They will advertise products that will be tailored for the customer in order to promote customer satisfaction.
 
-## TresorLDN Online Shopping 
-TresorLDN's e-commerce website allows its customers to perform purchases online, even if in out-of-hours by advertising their homeware products whether if its:
+## TresorLDN Online Shopping System
+TresorLDN's e-commerce website will not only allows its customers to perform purchases online, but it will also enable to perform orders even if it is past-opening times, such as during out-of-hours, and it will advertise their homeware products whether if its:
 
 - Furniture
 - Beds
 - Home Essentials
 - Bed Duvets
 - Mattresses
+- And many more...
 
+### The features that it will cater for
 The new online shopping system provides a user-friendly interface that will promote customer satisfaction as it will allow the customer to
 
 - View Past Orders.
