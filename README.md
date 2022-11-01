@@ -26,3 +26,27 @@ The new online shopping system provides a user-friendly interface that will prom
 - Be able to login.
 - Peace of mind in security as their data will be kept secured.
 - View products and be able to search items.
+
+## Some Notice for this Branch
+If you wish to make changes to the code, I would suggest **cloning**, or **pulling** from the repository, and switching to **develop** branch when using git.
+- The main branch provides the code similar to develop but website is in "working" state.
+- The develop branch provides the code that is in "development" state, meaning there is potential risks for bugs, or crashes.
+- For Project Group 23, we will be using the develop branch, not main branch.
+- The skeleton branch should be avoided.
+- Tested Branch will be created soon.
+
+## Contributing
+
+Thank you for considering contributing to TresorLDN's Webiste! The contribution guide can be found in the [Laravel's documentation](https://laravel.com/docs/contributions).
+
+## Code of Conduct
+
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Laravel, please send an e-mail to Ibrahim Ahmad via [210029073@aston.ac.uk](mailto:210029073@aston.ac.uk). All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
