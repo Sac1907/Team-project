@@ -43,9 +43,9 @@ Thank you for considering contributing to TresorLDN's Webiste! The contribution 
 
 In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+## Software Related Bugs
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Ibrahim Ahmad via [210029073@aston.ac.uk](mailto:210029073@aston.ac.uk). All security vulnerabilities will be promptly addressed.
+If you discover any issues regarding software bugs, please send an e-mail to Ibrahim Ahmad via [210029073@aston.ac.uk](mailto:210029073@aston.ac.uk). All security vulnerabilities will be promptly addressed.
 
 ## License
 
