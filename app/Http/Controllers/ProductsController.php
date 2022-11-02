@@ -6,6 +6,7 @@ use App\Models\Products;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\StoreProductsRequest;
 use App\Http\Requests\UpdateProductsRequest;
+use Illuminate\Support\Facades\DB;
 
 class ProductsController extends Controller
 {
@@ -49,6 +50,16 @@ class ProductsController extends Controller
     public function show(Products $products)
     {
         //
+    }
+
+    private Products $product;
+
+    public function showAllProducts(): \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View|\Illuminate\Contracts\Foundation\Application
+    {
+        $all = DB::table('products')
+            ->select('*')
+            ->simplePaginate(4);
+        return view('products', compact('all'));
     }
 
     /**

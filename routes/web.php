@@ -27,7 +27,11 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('main');
+});
+
+Route::get('about', function() {
+    return view('about');
 });
 
 Route::get('contacts', function () {
@@ -44,9 +48,7 @@ Route::get('product', function () {
 });
 
 
-Route::get('products', function () {
-    return view('products');
-});
+Route::get('products', 'App\Http\Controllers\ProductsController@showAllProducts');
 
 Auth::routes();
 
