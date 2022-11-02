@@ -62,6 +62,10 @@ class ProductsController extends Controller
         return view('products', compact('all'));
     }
 
+    public function showAll() {
+        return view('products', array('products'=>Products::all()));
+    }
+
     /**
      * Show the form for editing the specified resource.
      *

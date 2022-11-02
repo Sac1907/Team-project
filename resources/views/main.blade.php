@@ -9,6 +9,11 @@
 
                     <div class="card-body">
                         <h1>This is the homepage</h1>
+                        To visit products <a href="{{route('products')}}">Click here</a>
+                        <br/>
+                        <a href="{{'contacts'}}">To Visit Contact Us</a>
+                        <br/>
+                        <a href="{{'about'}}">To Visit About Us</a>
                     </div>
                 </div>
             </div>

@@ -48,7 +48,7 @@ Route::get('product', function () {
 });
 
 
-Route::get('products', 'App\Http\Controllers\ProductsController@showAllProducts');
+Route::get('products', 'App\Http\Controllers\ProductsController@showAll')->name('products');
 
 Auth::routes();
 
